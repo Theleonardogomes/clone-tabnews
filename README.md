@@ -1,2 +1,2 @@
 # clone-tabnews
-Projeto para aprender do zero de progrmação
+Projeto para aprender do zero a programação
